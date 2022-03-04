@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img{
+    height: 65px;
+}
+.nav-bt{
+    margin-top: 15px;
+}
+.car-in h2{
+    font-weight: bold;
+}
+.car-in p{
+    color: grey;
+}
+.buy-now-btn{
+    padding: 9px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 14px;
+}
+h2{
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+}
+.smartphone, .laptop{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.seeall{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px gainsboro;
+    border-radius: 10px;
+    padding: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    color: gray;
+    font-size: 13px;
+}
+.smartinfo, .laptopinfo{
+    margin-bottom: 22px;
+}
+.card h5{
+    margin-bottom: 15px;
+}
+.cat {
+    text-align: center;
+}
+.cat hr{
+    margin: 2rem 489px;
+    width: 10%;
+    height: 5px;
+    margin-top: 15px;
+    background-color: orange;
+}
+/* .row{
+    margin-left: 52px;
+} */
+.cat-le{
+    margin-left: 25px;
+}
+.catimg2 img{
+    margin-bottom: 40px;
+}
+.catogimage{
+    box-shadow: 5px 5px 10px gray;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.catimageright{
+    width: 100%;
+}
